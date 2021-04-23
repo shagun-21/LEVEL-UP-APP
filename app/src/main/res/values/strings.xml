@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Level Up!!!</string>
+    <string name="item1_nav_menu">PRIZES</string>
+    <string name="item2_nav_menu">EVENTS</string>
+    <string name="item3_nav_menu">SAFETY AND SANITIZATION</string>
+    <string name="item4_nav_menu">CONTACT US</string>
+    <string name="item5_nav_menu">RATE US</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="buttontextregistor">REGISTER</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="prizes">All new exciting prizes coming soon....stay tuned keep gaming.</string>
+    <string name="go_back">GO BACK</string>
+    <string name="events_text">Storms hit your weakness, but unlock your true strength.Mile by mile one hits the milestone.Guess what?
+        Now we are going to organize some amazing events for gamers, we hope that you all are excited for this event and will enjoy that.
+    </string>
+    <string name="safety_sanitizations">In this pandemic situation, it is in our hand we can be bitter or we can be better. We all know that it is a challenging time but remember that,Challenge and adversity are meant to help you know who you are actually.</string>
+    <string name="contact_us">Technology now allows people to connect anytime, anywhere, to anyone in the world. Our team is present 24/7, whenever you want help from us, feel free to ask and contact us on -
+</string>
+    <string name="rate_us">Do Rate Us At Google Play Store
+
+    @xyz.com</string>
+    <string name="proceed">PROCEED</string>
+    <string name="instagram">INSTAGRAM
+    </string>
+    <string name="name">NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="email">EMAIL ID</string>
+    <string name="date_of_birth">DATE OF BIRTH</string>
+</resources>
